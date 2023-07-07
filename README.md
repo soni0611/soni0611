@@ -12,7 +12,7 @@
 
 <br />
 
-hi, i'm [Shivam Soni](https://abhishknads.me/), a passionate self-taught full stack web developer and a software engineer from india.Currently I am Working in TCS as a full stack Developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Shivam Soni](https://github.com/soni0611), a passionate self-taught full stack web developer and a software engineer from india.Currently I am Working in TCS as a full stack Developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
  i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
