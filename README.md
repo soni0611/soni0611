@@ -28,7 +28,7 @@ hi, i'm [Shivam Soni](https://github.com/soni0611), a passionate self-taught ful
 
 <br><br>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="320" />
+<img align="right" alt="GIF" src="https://github.com/soni0611/soni0611/blob/main/code.gif" width="500" height="320" />
 
 - 💼 any freelance work? do reach, [email](mailto:shivam.soni1998@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
