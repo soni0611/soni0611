@@ -16,8 +16,6 @@ hi, i'm [Shivam Soni](https://github.com/soni0611), a passionate self-taught ful
 
  i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **languages and tools:**  
 
@@ -27,6 +25,10 @@ hi, i'm [Shivam Soni](https://github.com/soni0611), a passionate self-taught ful
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<br><br>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="320" />
 
 - 💼 any freelance work? do reach, [email](mailto:shivam.soni1998@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
