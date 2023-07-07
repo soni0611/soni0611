@@ -9,7 +9,8 @@
   <img align="left" alt="Shivam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
+<br>
+<br>
 <br />
 
 hi, i'm [Shivam Soni](https://github.com/soni0611), a passionate self-taught full stack web developer and a software engineer from india.Currently I am Working in TCS as a full stack Developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
