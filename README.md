@@ -2,8 +2,6 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=soni0611 alt=soni0611/></p>
 
-### Technologies & Frameworks I have worked with:
-
 ### Connect with me here:  
 <a href="https://twitter.com/Shivamsoni0001">
   <img align="left" alt="Shivam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -27,14 +25,11 @@ Hi, I'm [Shivam Soni](https://github.com/soni0611), a passionate self-taught ful
  i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   
-**languages and tools:**  
+**Technologies & Frameworks I have worked with:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongo,firebase,sass,fastapi,cpp,java,git,github,postman">
+</p>
 
 <br><br>
 
