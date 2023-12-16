@@ -37,5 +37,5 @@ Hi, I'm [Shivam Soni](https://github.com/soni0611), a passionate self-taught ful
 
 - 💼 any freelance work? do reach, [email](mailto:shivam.soni1998@gmail.com) :)
 - 💬 ask me about anything, i am happy to help
-  <br><br>  <br><br>  <br><br>
+  <br><br>  <br><br>  <br><br>  <br><br>
 ## :rainbow: Have a good day!
