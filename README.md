@@ -1,5 +1,8 @@
 ## Hey there I'm [Shivam!](https://www.linkedin.com/in/shivam--soni/) 👋
+## :rainbow: Have a good day!
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=soni0611 alt=soni0611/></p>
 
+### Connect with me here:  
 <a href="https://twitter.com/Shivamsoni0001">
   <img align="left" alt="Shivam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
