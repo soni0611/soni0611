@@ -2,6 +2,8 @@
 ## :rainbow: Have a good day!
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=soni0611 alt=soni0611/></p>
 
+### Technologies & Frameworks I have worked with:
+
 ### Connect with me here:  
 <a href="https://twitter.com/Shivamsoni0001">
   <img align="left" alt="Shivam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -20,7 +22,7 @@
 <br>
 <br />
 
-hi, i'm [Shivam Soni](https://github.com/soni0611), a passionate self-taught full stack web developer and a software engineer from india.Currently I am Working in TCS as a full stack Developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Shivam Soni](https://github.com/soni0611), a passionate self-taught full stack web developer and a software engineer from india.Currently I am Working in TCS as a full stack Developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
  i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
