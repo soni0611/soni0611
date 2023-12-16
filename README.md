@@ -28,7 +28,7 @@ Hi, I'm [Shivam Soni](https://github.com/soni0611), a passionate self-taught ful
 **Technologies & Frameworks I have worked with:**  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongo,firebase,sass,fastapi,cpp,java,git,github,postman">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongo,firebase,cpp,java,git,github,postman">
 </p>
 
 <br><br>
@@ -37,5 +37,5 @@ Hi, I'm [Shivam Soni](https://github.com/soni0611), a passionate self-taught ful
 
 - 💼 any freelance work? do reach, [email](mailto:shivam.soni1998@gmail.com) :)
 - 💬 ask me about anything, i am happy to help
-  
+  <br><br>
 ## :rainbow: Have a good day!
