@@ -1,5 +1,5 @@
 ## Hi there! Welcome to my [GitHub profile!](https://www.linkedin.com/in/shivam--soni/) 👋
-## :rainbow: Have a good day!
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=soni0611 alt=soni0611/></p>
 
 ### Technologies & Frameworks I have worked with:
@@ -41,4 +41,6 @@ Hi, I'm [Shivam Soni](https://github.com/soni0611), a passionate self-taught ful
 <img align="right" alt="GIF" src="https://github.com/soni0611/soni0611/blob/main/code.gif" width="500" height="320" />
 
 - 💼 any freelance work? do reach, [email](mailto:shivam.soni1998@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help
+  
+## :rainbow: Have a good day!
