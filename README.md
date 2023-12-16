@@ -1,4 +1,4 @@
-## Hey there I'm [Shivam!](https://www.linkedin.com/in/shivam--soni/) 👋
+## Hi there! Welcome to my [GitHub profile!](https://www.linkedin.com/in/shivam--soni/) 👋
 ## :rainbow: Have a good day!
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=soni0611 alt=soni0611/></p>
 
